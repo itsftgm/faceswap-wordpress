@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Faceswap
+ * Plugin Name: FTGM Faceswap
  * Plugin URI: https://github.com/bshaffer/faceswap-plugin
  * Description: Adds faceswap functionality
  * Author: Brent Shaffer
